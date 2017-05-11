@@ -15,6 +15,7 @@
 * [JavaScript — A First-Class Language At Last](https://hackernoon.com/javascript-a-first-class-language-at-last-209376f69731)
 * [How to Make the Perfect App Icon](https://medium.freecodecamp.com/how-to-make-the-perfect-app-icon-f3a6f0d190e6)
 * [50 Best Resources When Learning to Code](https://themission.co/50-best-resources-when-learning-to-code-496cefc29507)
+* [Designer vs Developer #5: Who is responsible for design?](https://www.creativereview.co.uk/who-is-responsible-for-design/)
 # Courses
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/)
