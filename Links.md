@@ -11,6 +11,7 @@
 * [I Got Rejected by Apple Music… So I Redesigned It](https://medium.com/@jasonyuan/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf)
 * [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 * [How I Read & Remember What I Read](http://shayhowe.com/how-i-read-remember/)
+* [Size and layout of e-commerce product grids: a user research case study](https://medium.com/user-testing-monthly/size-and-layout-of-e-commerce-product-grids-a-user-research-case-study-8a8307cbd087)
 # Courses
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/)
@@ -23,10 +24,5 @@
 * [Sidebar](http://sidebar.io/), your Design Links For The Day.
 * [Medium](https://medium.com/), a place where everyone has a story to share and the best ones are delivered right to you.
 * [Mozilla Developer Network](https://developer.mozilla.org/)
-# Gustavo
-# Posts
-## Read
+* [Relaxing Music](https://soundcloud.com/wandersoundradio/)
 
-## Not read but interested
-
-## Courses
