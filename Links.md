@@ -12,6 +12,9 @@
 * [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 * [How I Read & Remember What I Read](http://shayhowe.com/how-i-read-remember/)
 * [Size and layout of e-commerce product grids: a user research case study](https://medium.com/user-testing-monthly/size-and-layout-of-e-commerce-product-grids-a-user-research-case-study-8a8307cbd087)
+* [JavaScript — A First-Class Language At Last](https://hackernoon.com/javascript-a-first-class-language-at-last-209376f69731)
+* [How to Make the Perfect App Icon](https://medium.freecodecamp.com/how-to-make-the-perfect-app-icon-f3a6f0d190e6)
+* [50 Best Resources When Learning to Code](https://themission.co/50-best-resources-when-learning-to-code-496cefc29507)
 # Courses
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/)
